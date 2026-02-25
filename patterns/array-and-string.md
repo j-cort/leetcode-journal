@@ -13,3 +13,4 @@
 - [Merge Sorted Array](../problems/E-001-merge-sorted-array.md)
 - [Remove Element](../problems/E-002-remove-element.md)
 - [Remove Duplicates from Sorted array](../problems/E-003-remove-duplicates-from-sorted-array.md)
+- [Remove Duplicates from Sorted Array II](../problems/M-004-remove-duplicates-from-sorted-array-2.md)
