@@ -10,4 +10,4 @@
 ---
 
 ## Stats
-Total Solved: 5/150
+Total Solved: 8/150
