@@ -4,7 +4,7 @@
 ??
 
 ## Typical Complexity
-??
+$O(n)$
 
 ---
 
@@ -17,3 +17,5 @@
 - [Rotate Array](../problems/M-006-rotate-array.md)
 - [Best Time to Buy and Sell Stock](../problems/E-007-best-time-to-buy-and-sell-stock.md)
 - [Best Time to Buy and Sell Stock II](../problems/M-008-best-time-to-buy-and-sell-stock-2.md)
+- [Jump Game](../problems/M-009-jump-game.md)
+- [Jump Game II](../problems/M-010-jump-game-2.md)
